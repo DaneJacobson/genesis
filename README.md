@@ -1,2 +1,4 @@
 # Genesis
-A hub for the commodification and visualization of materials simulations.
+The intersection of molecular biology and AI has exploded in the past 5 years. The general consensus seems to be that "deep learning is the language of biology". This project is the manifestation of the countertake: that metabolic reactions can rendered explicitly. The goal is to build a truly universal metabolic simulator for biochemical reactions, using explicit modeling techniques not dependent on large datasets. While the simulator may employ deep learning in specific scenarios (neural network potentials, for example) or use deep learning to discover explicit knowledge, it will not rely on learned statistical distributions to make predictions. Additionally, the tools used to perform analysis of metabolic reactions is lacking, and this project will attempt to build a beautiful interface for analyzing and designing metabolic pathways.
+
+The software is open source (MIT license) for all academic researchers. Please contact the administrator of this repository for commercial use.
